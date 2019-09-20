@@ -12,4 +12,9 @@ I'm unable to be able to think of being able to can
 =======
 But sometimes, indeed, I can be able to can
 but C'EST HONTEUX !!!
+<<<<<<< HEAD
 >>>>>>> e3c900b92607a9782585bc6d7aa75d63bb1a3ad3
+=======
+
+Aujourd'hui dans 90 minutes enquète: le master 1 de Corte ouvre un git. Que comptent-ils faire? Vont-ils pirater la Corse? La réponse est bien plus horribe que vous ne le pensez.
+>>>>>>> 09d2ac322904962427b3174980fb5a416400c501
