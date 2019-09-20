@@ -18,3 +18,6 @@ but C'EST HONTEUX !!!
 
 Aujourd'hui dans 90 minutes enquète: le master 1 de Corte ouvre un git. Que comptent-ils faire? Vont-ils pirater la Corse? La réponse est bien plus horribe que vous ne le pensez.
 >>>>>>> 09d2ac322904962427b3174980fb5a416400c501
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Un deposit git? Ruiner? C'est moche
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
